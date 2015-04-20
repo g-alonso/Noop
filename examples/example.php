@@ -1,11 +1,11 @@
 <?php
 
-require "Noop/Acl.php";
-require "Noop/Organization.php";
-require "Noop/Resource.php";
-require "Noop/Role.php";
-require "Noop/Action.php";
-require "Noop/AccessRule.php";
+require "../src/Noop/Acl.php";
+require "../src/Noop/Organization.php";
+require "../src/Noop/Resource.php";
+require "../src/Noop/Role.php";
+require "../src/Noop/Action.php";
+require "../src/Noop/AccessRule.php";
 
 use Noop\Resource;
 use Noop\Role;

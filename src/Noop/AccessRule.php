@@ -91,5 +91,7 @@ class AccessRule {
         ){
             return true;
         }
+
+        return false;
     }
 }
