@@ -15,7 +15,7 @@
             <directory>./</directory>
             <exclude>
                 <directory>./tests</directory>
-                <directory>./example</directory>
+                <directory>./examples</directory>
             </exclude>
         </whitelist>
     </filter>
